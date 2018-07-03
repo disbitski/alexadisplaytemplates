@@ -1,5 +1,5 @@
 # alexadisplaytemplates
-Source code for my Alexa Display.RenderTemplate directives on Echo Show/Spot
+Source code for my Alexa Display.RenderTemplate directives skill on Echo Show/Spot
 
 Live code demo here: https://www.youtube.com/watch?v=R7LNY7IUilA
 
